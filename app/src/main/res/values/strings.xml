@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">COVID Tracker</string>
+    <string name="sa">sample text</string>
+    <string name="heading">District Wise COVID CASES</string>
+    <string name="district_name">District</string>
+    <string name="covid_details">CASE DETAILS</string>
+    <string name="active">Active Cases:</string>
+    <string name="conformed">Confirmed Cases:</string>
+    <string name="recovered">Recovered Cases:</string>
+    <string name="death">Death Cases:</string>
+    <string name="delta">Delta:</string>
+    <string name="deltaConfirmed">Delta Confirmed Cases:</string>
+    <string name="deltaDeaths">Delta Death Cases:</string>
+    <string name="deltaRecovered">Delta Recovered Cases:</string>
+    <string name="last_updated_time">Last Updated Time:</string>
+    <string name="covid_19">COVID-19</string>
+    <string name="tracker">Tracker</string>
+    <string name="developed_by_manoj">Developed by Manoj</string>
+</resources>
